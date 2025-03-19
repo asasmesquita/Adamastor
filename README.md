@@ -6,7 +6,7 @@ Objective
 
 Tasks
 - get data from agrivew from prod db
-- connect to llm and instantiate pandasai SmartDatalake as a service
+- connect to llm and offer pandasai SmartDatalake as a service
 - use streamlit as front end
 
 

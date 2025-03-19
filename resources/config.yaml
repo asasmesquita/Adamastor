@@ -1,0 +1,48 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: cookie_prototype
+credentials:
+  usernames:
+    am:
+      email: zero@user.me
+      failed_login_attempts: 0
+      first_name: zero
+      last_name: user
+      logged_in: False
+      password: qwerty1234
+    user1:
+      email: user1@user.me
+      failed_login_attempts: 0
+      first_name: user
+      last_name: one
+      logged_in: False
+      password: asdfg12345
+    user2:
+      email: user2@user.me
+      failed_login_attempts: 0
+      first_name: user
+      last_name: two
+      logged_in: False
+      password: asdfg12345
+    user3:
+      email: user3@user.me
+      failed_login_attempts: 0
+      first_name: user
+      last_name: three
+      logged_in: False
+      password: asdfg12345
+    user4:
+      email: user4@user.me
+      failed_login_attempts: 0
+      first_name: user
+      last_name: four
+      logged_in: False
+      password: asdfg12345
+    user5:
+      email: user5@user.me
+      failed_login_attempts: 0
+      first_name: user
+      last_name: five
+      logged_in: False
+      password: asdfg12345
